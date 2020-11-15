@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controls", "DevExpressControls\Controls\Controls.csproj", "{8495380A-8572-4B4E-AA90-F0ABF870A51E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "DevExpressControls\Client\Client.csproj", "{E6B0B59D-0264-4670-8726-093A58CD695A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{07F11D86-59D0-492C-A7B7-63E011A3A670}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8495380A-8572-4B4E-AA90-F0ABF870A51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8495380A-8572-4B4E-AA90-F0ABF870A51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8495380A-8572-4B4E-AA90-F0ABF870A51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8495380A-8572-4B4E-AA90-F0ABF870A51E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B0B59D-0264-4670-8726-093A58CD695A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B0B59D-0264-4670-8726-093A58CD695A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B0B59D-0264-4670-8726-093A58CD695A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B0B59D-0264-4670-8726-093A58CD695A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2DFC74-3257-4979-96BA-2EFD0E917F0E}
+	EndGlobalSection
+EndGlobal
